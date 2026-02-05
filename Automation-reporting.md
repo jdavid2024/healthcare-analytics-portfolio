@@ -1,4 +1,4 @@
-# Automated Capacity Reporting System
+# Automated Client Experience Reporting System
 
 ## Problem
 Routine manual reporting required several hours weekly and produced inconsistent outputs.
