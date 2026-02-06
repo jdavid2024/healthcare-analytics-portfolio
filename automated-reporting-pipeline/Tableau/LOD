@@ -1,0 +1,6 @@
+{
+  FIXED [Question] :
+  SUM(IF [Response Raw] = "Yes, definitely" THEN 1 ELSE 0 END)
+  /
+  SUM(IF NOT ISNULL([Response Raw]) AND TRIM([Response Raw]) <> "" THEN 1 ELSE 0 END)
+}
