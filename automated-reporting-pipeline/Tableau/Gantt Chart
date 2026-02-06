@@ -1,0 +1,4 @@
+#Gantt Start 
+-[Total Negative Scores] / [Total Scores]
+# Gantt Percent
+PREVIOUS_VALUE([Gantt Start]) + ZN(LOOKUP([Percent of Total Sizing], -1))
